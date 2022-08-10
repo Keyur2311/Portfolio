@@ -1,0 +1,14 @@
+
+*{
+    scroll-behavior: smooth;
+}
+
+.card-title{
+    text-align: center;
+    font-weight: bolder;
+}
+
+footer{
+    background-color:whitesmoke;
+
+}
